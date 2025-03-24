@@ -1,0 +1,2 @@
+This project focused on building a structured HTML5 webpage using semantic elements and validation. I created a webpage with sections including a header, navigation, main content, sidebar, and footer, along with an HTML5 form featuring built-in validation. After validating the HTML using the W3C Validator to ensure error-free code, I published the project on my GitHub, which included a repository with the HTML file and README. This lab enhanced my understanding of semantic HTML5, validation techniques, and version control using GitHub.
+
